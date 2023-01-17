@@ -1,0 +1,24 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recepties application",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/marselle13/forkify.git"
+  },
+  "author": "Nikoloz Gogua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marselle13/forkify/issues"
+  },
+  "homepage": "https://github.com/marselle13/forkify#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.2",
+    "parcel": "^2.8.2"
+  }
+}
